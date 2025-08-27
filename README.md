@@ -1,4 +1,4 @@
-# Entire Workflow Flowchart of Docker
+# Entire Workflow Flowchart of Docker VM
 
 Explanation Video:
 
